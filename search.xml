@@ -8,7 +8,6 @@
 
 <h3 id="安装nginx"><a href="#安装nginx" class="headerlink" title="安装nginx"></a>安装nginx</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">./configure \</span><br><span class="line">--prefix=/usr/<span class="built_in">local</span>/nginx \</span><br><span class="line">--sbin-path=/usr/<span class="built_in">local</span>/nginx/sbin/nginx \</span><br><span class="line">--error-log-path=/var/<span class="built_in">log</span>/nginx/error.log \ </span><br><span class="line">--http-log-path=/var/<span class="built_in">log</span>/nginx/access.log \</span><br><span class="line">--with-http_stub_status_module \</span><br><span class="line">--with-http_gzip_static_module \</span><br><span class="line">--with-http_ssl_module \</span><br><span class="line">--with-http_flv_module \</span><br><span class="line">--with-http_v2_module</span><br><span class="line"></span><br><span class="line">make &amp;&amp; make <span class="built_in">test</span></span><br><span class="line"></span><br><span class="line">make install</span><br></pre></td></tr></table></figure>
 
-
 <h3 id="php7-4-15依赖"><a href="#php7-4-15依赖" class="headerlink" title="php7.4.15依赖"></a>php7.4.15依赖</h3><p>libxml2-devel、sqlite-devel、libcurl-devel、libpng-devel、libzip-devel、openssl-devel</p>
 <h3 id="安装php7-4-15"><a href="#安装php7-4-15" class="headerlink" title="安装php7.4.15"></a>安装php7.4.15</h3><p>安装时可能会出现 libzip 无法找到</p>
 <p>执行以下命令</p>
@@ -991,7 +990,7 @@
   <entry>
     <title>基于Java语言构建区块链（一）—— 基本原型</title>
     <url>/2019/01/21/build-blockchain-in-java-base-prototype/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/Blockchain-Technology-is-Changing-the-World-As-We-Know-It.webp" alt="https://img.i7years.com/blog/Blockchain-Technology-is-Changing-the-World-As-We-Know-It.webp"></p>
+    <content><![CDATA[<p><img src="/images/Blockchain-Technology-is-Changing-the-World-As-We-Know-It.webp"></p>
 <h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>区块链技术是一项比人工智能更具革命性的技术，人工智能只是提高了人类的生产力，而区块链则将改变人类社会的生产关系，它将会颠覆我们人类社会现有的协作方式。了解和掌握区块链相关知识和技术，是我们每位开发人员必须要去做的事情，这样我们才能把握住这波时代趋势的红利。<br>本文将基于Java语言构建简化版的blockchain，来实现数字货币。</p>
 <span id="more"></span>
 
