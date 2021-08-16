@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-wallet-address/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-utxo/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-script/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-merkle-tree/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenmobuys.github.io/2019/01/21/build-blockchain-in-java-proof-of-work/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-data-persistence/</loc>
+    
+    <lastmod>2021-08-16</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://chenmobuys.github.io/2021/03/03/bian-yi-an-zhuang-nginx/</loc>
     
     <lastmod>2021-08-16</lastmod>
@@ -58,49 +100,7 @@
   </url>
   
   <url>
-    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-data-persistence/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://chenmobuys.github.io/2019/01/23/common-functions-js/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-wallet-address/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-utxo/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-merkle-tree/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenmobuys.github.io/2019/01/21/build-blockchain-in-java-proof-of-work/</loc>
-    
-    <lastmod>2020-10-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://chenmobuys.github.io/2019/01/23/build-blockchain-in-java-transaction-script/</loc>
     
     <lastmod>2020-10-14</lastmod>
     

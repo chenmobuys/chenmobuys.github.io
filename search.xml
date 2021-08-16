@@ -1051,7 +1051,7 @@
   <entry>
     <title>基于Java语言构建区块链（三）—— 持久化 &amp; 命令行</title>
     <url>/2019/01/23/build-blockchain-in-java-data-persistence/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/Millerblockchainadj-3200x2400.webp" alt="https://img.i7years.com/blog/Millerblockchainadj-3200x2400.webp"></p>
+    <content><![CDATA[<p><img src="/images/Millerblockchainadj-3200x2400.webp"></p>
 <blockquote>
 <p>文章的主要思想和内容均来自：<a href="https://jeiwan.cc/posts/building-blockchain-in-go-part-3/">https://jeiwan.cc/posts/building-blockchain-in-go-part-3/</a></p>
 </blockquote>
@@ -1172,7 +1172,7 @@
   <entry>
     <title>基于Java语言构建区块链（二）—— 工作量证明</title>
     <url>/2019/01/21/build-blockchain-in-java-proof-of-work/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/bitcoin-miner.webp" alt="https://img.i7years.com/blog/bitcoin-miner.webp"></p>
+    <content><![CDATA[<p><img src="/images/bitcoin-miner.webp"></p>
 <blockquote>
 <p>文章的主要思想和内容均来自 <a href="https://jeiwan.cc/posts/building-blockchain-in-go-part-2/">https://jeiwan.cc/posts/building-blockchain-in-go-part-2/</a></p>
 </blockquote>
@@ -1287,7 +1287,7 @@
   <entry>
     <title>基于Java语言构建区块链（六）—— 交易（Merkle Tree）</title>
     <url>/2019/01/23/build-blockchain-in-java-transaction-merkle-tree/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/pexels-photo-38136.webp" alt="https://img.i7years.com/blog/pexels-photo-38136.webp"></p>
+    <content><![CDATA[<p><img src="/images/pexels-photo-38136.webp"></p>
 <blockquote>
 <p>文章的主要思想和内容均来自 <a href="https://jeiwan.cc/posts/building-blockchain-in-go-part-6/">https://jeiwan.cc/posts/building-blockchain-in-go-part-6/</a></p>
 </blockquote>
@@ -1422,7 +1422,7 @@
   <entry>
     <title>基于Java语言构建区块链（七）—— 交易脚本（智能合约）</title>
     <url>/2019/01/23/build-blockchain-in-java-transaction-script/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/rawpixel-652547-unsplash.jpg-webp" alt="https://img.i7years.com/blog/rawpixel-652547-unsplash.jpg-webp"></p>
+    <content><![CDATA[<p><img src="/images/rawpixel-652547-unsplash.jpg"></p>
 <p>上一篇 文章我们引入 UTXOset 和 Merkle Tree 对交易流程做了些许优化，本篇文章我们将介绍比特币另一个更加重要的机制 —— 交易脚本。</p>
 <p>在介绍 UTXO的文章 中，我们已经了解到比特币的交易输出由锁定脚本锁定，它只能被交易输出所被指向的交易输入中的解锁脚本所解锁，今天让我们来详细讨论一下它们的实现机制。</p>
 <span id="more"></span>
@@ -1512,7 +1512,7 @@
   <entry>
     <title>基于Java语言构建区块链（四）—— 交易（UTXO）</title>
     <url>/2019/01/23/build-blockchain-in-java-transaction-utxo/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/ecommerce-2140604.jpg" alt="https://img.i7years.com/blog/ecommerce-2140604.jpg"></p>
+    <content><![CDATA[<p><img src="/images/ecommerce-2140604.jpg"></p>
 <blockquote>
 <p>文章的主要思想和内容均来自 <a href="https://jeiwan.cc/posts/building-blockchain-in-go-part-4/">https://jeiwan.cc/posts/building-blockchain-in-go-part-4/</a></p>
 </blockquote>
@@ -1697,7 +1697,7 @@
   <entry>
     <title>基于Java语言构建区块链（五）—— 地址（钱包）</title>
     <url>/2019/01/23/build-blockchain-in-java-wallet-address/</url>
-    <content><![CDATA[<p><img src="https://img.i7years.com/blog/pexels-photo-730547.webp" alt="https://img.i7years.com/blog/pexels-photo-730547.webp"></p>
+    <content><![CDATA[<p><img src="/images/pexels-photo-730547.webp"></p>
 <blockquote>
 <p>文章的主要思想和内容均来自 <a href="https://jeiwan.cc/posts/building-blockchain-in-go-part-5/">https://jeiwan.cc/posts/building-blockchain-in-go-part-5/</a></p>
 </blockquote>
